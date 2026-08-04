@@ -15,3 +15,5 @@ y.remove(23)
 print(y)
 y[4]="ali"
 print(y)
+print("این پیام رو میبینید؟")
+
