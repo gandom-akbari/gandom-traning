@@ -4,4 +4,4 @@ new=""
 for i in x:
     if i not in y:
        new=new+i
-print(new)    
+print(new) 
