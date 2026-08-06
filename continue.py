@@ -1,10 +1,17 @@
-for i in range(7):
-        if 2<=i<=5:
-         continue
-        print(i)
-print("====================")
-for i in range(10):
-     if i==5:
-          break
+def show_numbers():
+    for i in range(7):
+     if i==3:
+        continue
      print(i)
-     print("=================")
+
+
+
+def show_numbers2():
+   for j in range(7):
+      if j==4:
+        break
+      print(j)
+
+show_numbers()
+print("=================")
+show_numbers2()
