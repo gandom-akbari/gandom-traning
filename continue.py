@@ -1,3 +1,6 @@
+from extract import extract_even
+
+
 def show_numbers():
     for i in range(7):
      if i==3:
@@ -15,3 +18,7 @@ def show_numbers2():
 show_numbers()
 print("=================")
 show_numbers2()
+x=101
+result=extract_even(x)
+
+print(result)
