@@ -3,7 +3,7 @@ def moshaver():
     y=[]
     while n<31:
         print("booked dates==",y)
-        date=int(input("enter your date:"))
+        date=int(input("enter your date(1-30):"))
         if date<1 or date>30:
             print("eror,try again")
             continue
