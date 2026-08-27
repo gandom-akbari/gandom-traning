@@ -1,7 +1,6 @@
-x="hel+++++lo,im so hap@@@@@@py you % $&are ?????helping me l@&earning python,thank &*&*&*&*you"
-y="?@$#%&+*"
-new=""
-for i in x:
-    if i not in y:
-       new=new+i
-print(new) 
+def coffee():
+    coffe=["latte" , "americano" , "capoch"]
+    print("hey;this is our coffie section")
+    return coffee
+if __name__ == "__main__":
+    coffee()
