@@ -16,7 +16,7 @@ def show_numbers2():
       print(j)
 
 show_numbers()
-print("=================")
+print("===============cggh==")
 show_numbers2()
 x=101
 result=extract_even(x)
