@@ -1,6 +1,6 @@
-from drink import drinks
-from cakes import cakes
-from pizza import pizza
+from coffe_menu.drink import drinks
+from coffe_menu.cakes import cakes
+from coffe_menu.pizza import pizza
 
 
 
