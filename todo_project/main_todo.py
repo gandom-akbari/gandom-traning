@@ -1,4 +1,4 @@
-from password_for_todo_list import password
+from todo_project.password_for_todo_list import password
 from task import task
 def main():
     name=input ("hi welcome to todo ; whats your full name?")
